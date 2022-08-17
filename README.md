@@ -1,2 +1,2 @@
 # wiki
-Wiki from the Software Engineering Group (SERG), DC-UFPI. 
+Wiki from the Software Engineering Research Group (SERG), DC-UFPI. 
